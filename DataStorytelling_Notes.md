@@ -36,17 +36,18 @@ That said, once you start exploring the data, your question may change. More que
 | Antibiotics example from 1951 |
 | :-: |
 | ![Data](images/CS109_Lecture3_EDA/Slide_07.jpg) |
-| Data Explanation:<br><br>Gram Staining: positive = purple<br><br>Gram Staining: negative = pink<br><br>Min. Inhibitory Concentration = amount of antibiotic needed to combat that particular bacteria, in ml per g |
+| Data Explanation:<br>Gram Staining: positive = purple<br>Gram Staining: negative = pink<br>Min. Inhibitory Concentration = amount of antibiotic needed to combat that particular bacteria, in ml per gram |
 | ![Data questions](images/CS109_Lecture3_EDA/Slide_08.jpg) |
-| Initially one can ask about most/least effective antibiotic against the different bacteria.<br><br>Also, how does gram stain status impact/correlate to the effectiveness of the antibiotic? |
+| Initially one can ask about most/least effective antibiotic against the different bacteria.<br>Also, how does gram stain status impact/correlate to the effectiveness of the antibiotic? |
 | ![Data visualizations 1](images/CS109_Lecture3_EDA/Slide_09.jpg) |
 | This visualization tells us about the effectiveness of the antibiotic and whether the gram stain is positive/negative. |
 | ![Data visualizations 2](images/CS109_Lecture3_EDA/Slide_10.jpg) |
-| Here, a different question can be asked/answered regarding antibiotice resistance.<br><br>Once you ask the right questions you'll get surprising results. In this case it took science about 30 years to figure this out. |
+| Here, a different question can be asked/answered regarding antibiotice resistance.<br>Once you ask the right questions you'll get surprising results. In this case it took science about 30 years to figure this out. |
 | ![Data visualizations scatterplot](images/CS109_Lecture3_EDA/Slide_11.jpg) |
-| In science, it's not always about the eureka, but more the 'that's funny' moment. You look at your data and think, 'wow, that's weird.'<br><br>That's Funny [article](https://www.americanscientist.org/article/thats-funny) by Howard Wainer & Shaun Lysen |
+| In science, it's not always about the eureka, but more the 'that's funny' moment. You look at your data and think, 'wow, that's weird.'<br>That's Funny [article](https://www.americanscientist.org/article/thats-funny) by Howard Wainer & Shaun Lysen |
 
 The term **Exploratory Data Analysis** came about as a result of the work of statistician John Tukey.<br><br>
 
-![Tukey](images/CS109_Lecture3_EDA/Slide_12.jpg)
-
+| ![Tukey](images/CS109_Lecture3_EDA/Slide_12.jpg) |
+| :-: |
+|  |
