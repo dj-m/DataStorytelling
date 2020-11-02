@@ -23,7 +23,7 @@ Harvard CS 109 Lecture #3
 
 ### Exploratory Data Analysis & Effective Visualizations ###
 
-Data exploration is difficult becasue we're not always sure what we're looking for...
+Data exploration is difficult because we're not always sure what we're looking for...
 
 | ![x](images/CS109_Lecture3_EDA/Slide_05.jpg) |
 | :-: |
@@ -50,4 +50,52 @@ The term **Exploratory Data Analysis** came about as a result of the work of sta
 
 | ![Tukey](images/CS109_Lecture3_EDA/Slide_12.jpg) |
 | :-: |
-|  |
+| He was a big proponent of visualizing your data as soon as possible to assess any patterns early on, to come up with new, intereting questions.<br>Also, it can help find bigs if your data isn't quite what you expected. |
+
+**Visualization** can be defined as:
+| ![Tukey](images/CS109_Lecture3_EDA/Slide_13.jpg) |
+| :-: |
+| Seaborn is a new-ish library for python to accomplish this task. |
+
+Goals of a visualization are two fold: **Explanatory** and/or **Exploratory**
+
+- Communicate (**Explanatory**)
+  - Present data and ideas
+  - Explain and inform
+  - Provide evidence and support (for whatever message you have)
+  - Influence and persuade
+  
+- Analyze (**Exploratory**)
+  - Explore the data
+  - Assess a situation
+  - Determine how to proceed
+  - Decide what to do (next, or what questions to ask)
+  
+**Communication** is usually done without you being present, in the case of a report, for instance. Printed media offer great examples of this:
+  
+| ![Communicate](images/CS109_Lecture3_EDA/Slide_15.jpg) |
+| :-: |
+
+**Analysis** on the other hand is very much dependent on what you are able to suss out of the data:
+
+| An example of data exploration looking at plubic transit. |
+| :-: |
+| [![Explore](images/CS109_Lecture3_EDA/Slide_16.jpg)](http://mbtaviz.github.io) |
+
+#### Effective Visualizations ####
+
+| Visualizations that aren't effective are cluttered, crowded and use 3D effects that aren't helpful. |
+| :-: |
+| ![Ineffective](images/CS109_Lecture3_EDA/Slide_19.jpg) |
+| None of these help to decrease the cognitive load.<br>Visualizations are supposed to help you offload your mental processes onto the visualization. |
+
+The goal is to detect visual patterns without having to think very hard.
+
+Great examples of _fails_ can be seen via the [WTF Visualizations](https://viz.wtf) site.
+
+Five principles of effective visualizations:
+- Have graphical integrity
+- Keep it simple
+- Use the right display
+- Use color strategically
+- Tell a story with data
