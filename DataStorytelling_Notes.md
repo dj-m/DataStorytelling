@@ -161,6 +161,7 @@ Edward Tufte introduced the **Data-Ink Ratio** to help guide data visualizations
 | [![Starting point](images/CS109_Lecture3_EDA/Slide_42.jpg)](https://extremepresentation.typepad.com/blog/files/choosing_a_good_chart.pdf) |
 
 - Comparisons
+
 | Do: |
 | :-: |
 | ![Bar chart](images/CS109_Lecture3_EDA/Slide_44.jpg) |
@@ -171,19 +172,21 @@ Edward Tufte introduced the **Data-Ink Ratio** to help guide data visualizations
 Flowing Data blog post, [_Bar Chart Baselines Start at Zero_](https://flowingdata.com/2015/08/31/bar-chart-baselines-start-at-zero) by Nathan Yau (statistician)
 
 - Trends
+
 | Do: |
 | :-: |
 | ![Trends](images/CS109_Lecture3_EDA/Slide_48.jpg) |
 | Note the bar charts on the bottom. This is done to show the volume of trades versus the trend line above it. The bar chart implies no relationship, which is correct to do. |
 
 - Proportion
+
 | Most widely used method of showing proportions: | 
 | :-: |
 | ![Pie chart](images/CS109_Lecture3_EDA/Slide_50.jpg) |
 | To see pie chart _fails_ go to [eagerpies](https://twitter.com/eagerpies?lang=en) |
 | ![Stacked bar chart](images/CS109_Lecture3_EDA/Slide_52.jpg) |
 | ![Stacked area chart](images/CS109_Lecture3_EDA/Slide_53.jpg) |
-| Don't: |
+| **NO!** |
 | ![Pie chart](images/CS109_Lecture3_EDA/Slide_54.jpg) |
 
 - Correlations
