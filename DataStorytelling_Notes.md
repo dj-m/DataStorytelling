@@ -13,7 +13,7 @@ Variables associated with datastories:
 
 | History of Data Storytelling|
 | :-: |
-| [https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ddq7IPe43SyEWUmJMdjRMpPPYnDwYaSoBWKFj74AmhE&font=Default&lang=en&initial_zoom=2&height=650](images/datastorytelling_history.png) |
+| [images/datastorytelling_history.png](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ddq7IPe43SyEWUmJMdjRMpPPYnDwYaSoBWKFj74AmhE&font=Default&lang=en&initial_zoom=2&height=650) |
 
 ## Storytelling through Exploratory Data Analysis ##
 
