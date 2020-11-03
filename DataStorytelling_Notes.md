@@ -186,7 +186,123 @@ Flowing Data blog post, [_Bar Chart Baselines Start at Zero_](https://flowingdat
 | To see pie chart _fails_ go to [eagerpies](https://twitter.com/eagerpies?lang=en) |
 | ![Stacked bar chart](images/CS109_Lecture3_EDA/Slide_52.jpg) |
 | ![Stacked area chart](images/CS109_Lecture3_EDA/Slide_53.jpg) |
+| Caveat: this kind of visualization is not as effective given you have to image reducing the areas unerneath the category you're looking at to 0. For showing proportion it's "Ok" |
 | **NO!** |
 | ![Pie chart](images/CS109_Lecture3_EDA/Slide_54.jpg) |
 
 - Correlations
+
+| Typically represented in the following manner: |
+| :-: |
+| [![scatterplot](images/CS109_Lecture3_EDA/Slide_56.jpg)](https://xkcd.com/388/) |
+| In the past, scatterplots were considered too complicated for the **public**, but the visual literacy of the public is increasing and they're now Ok to use. |
+| ![3D Scatterplots](images/CS109_Lecture3_EDA/Slide_57.jpg) |
+
+- Distributions
+
+| Typically shown via: |
+| :-: |
+| ![Histogram](images/CS109_Lecture3_EDA/Slide_59.jpg) |
+| Play with the bin size to see if there's a pattern that you ddin't realize existed before. |
+| ![Bin size playing](images/CS109_Lecture3_EDA/Slide_60.jpg) |
+| A continous version of a histogram typically uses a Kernel density estimation. |
+| ![Density plot](images/CS109_Lecture3_EDA/Slide_61.jpg) |
+| The 2D version of Density Plots are also called **heatmaps** |
+| ![2D density plots](images/CS109_Lecture3_EDA/Slide_62.jpg) |
+
+For more examples, follow the [Seaborn tutorial](http://seaborn.pydata.org/tutorial/distributions.html).
+
+#### Exercise ####
+
+| Given the following data what kinds of visualizations can be developed? |
+| :-: |
+| ![Exercise data](images/CS109_Lecture3_EDA/Slide_65.jpg) |
+| Potential visualization 1: Pie Chart |
+| ![Exercise pie chart](images/CS109_Lecture3_EDA/Slide_66.jpg) |
+| Potential visualization 2: Stacked Bar Chart |
+| ![Exercise stacked bar chart](images/CS109_Lecture3_EDA/Slide_67.jpg) |
+| Potential visualization 3: Grouped Bar Chart |
+| ![Exercise grouped bar chart](images/CS109_Lecture3_EDA/Slide_68.jpg) |
+| Potential visualization 4: Difference Bar Chart |
+| ![Exercise difference bar chart](images/CS109_Lecture3_EDA/Slide_69.jpg) |
+| Potential visualization 5: Slope Graph |
+| ![Exercise slope graph](images/CS109_Lecture3_EDA/Slide_70.jpg) |
+| Here, the bar thickness also shows how much the before & after changed. |
+
+Sometimes the best approach, is to single out a specific metric to communicate:
+
+![single number](images/CS109_Lecture3_EDA/Slide_71.jpg)
+
+#### Perceptual Effectivenss ####
+
+So, how do you know which visualizations are better than other? The answer comes out of perceptual research that's been going on for 30+ years.
+
+| A few studies: |
+| :-: |
+| ![perception studies](images/CS109_Lecture3_EDA/Slide_73.jpg) |
+| Humans have a linear relatinoship with Length (Upper Left), versus overestimting electric shock and heaviness. |
+
+- Examples of how well-defined our visual sense is:
+
+| We're good at judging length |
+| :-: |
+| ![Length](images/CS109_Lecture3_EDA/Slide_74.jpg) |
+| It's a bit harder to determine angle |
+| ![Slope](images/CS109_Lecture3_EDA/Slide_75.jpg) |
+| Even harder to determine area, especially because we underestimate it |
+| ![Area](images/CS109_Lecture3_EDA/Slide_76.jpg) |
+| Intensity is even harder to determine | 
+| ![Intensity](images/CS109_Lecture3_EDA/Slide_77.jpg) | 
+| Absolute color judgement is also incredibly difficult to determine | 
+| ![Absolute color](images/CS109_Lecture3_EDA/Slide_78.jpg) |
+
+- Summary of perception research (for quantitative data):
+
+| ![Summary perception research](images/CS109_Lecture3_EDA/Slide_79.jpg) |
+| :-: |
+| ![Most effective](images/CS109_Lecture3_EDA/Slide_80.jpg) |
+| ![Least effective](images/CS109_Lecture3_EDA/Slide_81.jpg) |
+| You can combine visualizations so they better inform than they could alone: |
+| ![Together](images/CS109_Lecture3_EDA/Slide_82.jpg) |
+| Color is least effective (especially whenyou use the rainbow color scale): |
+| ![Color least effective](images/CS109_Lecture3_EDA/Slide_83.jpg) |
+
+- Colors
+
+Often, the best thing you can do with color, is **not** to use it.
+
+| When you do use color, be specific |
+| ![Discriminant color](images/CS109_Lecture3_EDA/Slide_85.jpg) |
+| Humans typically differentiate 5-8 colors: |
+| ![Color maximum](images/CS109_Lecture3_EDA/Slide_86.jpg) |
+| ![Color gradients](images/CS109_Lecture3_EDA/Slide_87.jpg) |
+
+The problem with the rainbow scale is that Red & Yellow are colors that we're more likely to see than blue and green. That visual dominance is called **non-linearity**.
+  - So, we see the colors in a non-linear way that doesn't correspond to the data.
+  
+| Avoid this at all costs! |
+| :-: |
+| ![Rainbow Colormap 0](images/CS109_Lecture3_EDA/Slide_89.jpg) |
+| You can see how the Red & Yellow dominate and how it's not related to the the underlying data. |
+| ![Rainbow Colormap 1](images/CS109_Lecture3_EDA/Slide_90.jpg) |
+| ![Rainbow Colormap 2](images/CS109_Lecture3_EDA/Slide_91.jpg) |
+
+Another reason to avoid the rainbow color scales are due to color blindness in humans. It's not a nominal thing, but rather gradients of color blindness.
+
+| ![Colorblind 0](images/CS109_Lecture3_EDA/Slide_92.jpg) |
+| :-: |
+| ![Colorblind 1](images/CS109_Lecture3_EDA/Slide_93.jpg) |
+
+| A tool that can be used to work with color:|
+| :-: |
+| ![Color Brewer 0](images/CS109_Lecture3_EDA/Slide_94.jpg) |
+| ![Color Brewer 1](images/CS109_Lecture3_EDA/Slide_95.jpg) |
+| Luckily Seaborn lets you use the [Color Brewer palette](https://seaborn.pydata.org/tutorial/color_palettes.html#using-categorical-color-brewer-palettes) |
+
+#### Recap ####
+
+| ![Effective Visualizations](images/CS109_Lecture3_EDA/Slide_21.jpg) |
+| :-: |
+| Further Reading |
+| ![Edward Tufte](images/CS109_Lecture3_EDA/Slide_98.jpg) |
+| ![Stephen Few](images/CS109_Lecture3_EDA/Slide_99.jpg) |
