@@ -306,3 +306,28 @@ Another reason to avoid the rainbow color scales are due to color blindness in h
 | Further Reading |
 | ![Edward Tufte](images/CS109_Lecture3_EDA/Slide_98.jpg) |
 | ![Stephen Few](images/CS109_Lecture3_EDA/Slide_99.jpg) |
+
+
+## Show me the Data ##
+
+TED x Claremont Colleges by Talithis Williams
+- [YouTube](https://www.youtube.com/watch?v=TDCYJ3_gx2w)
+
+Interest in seeing the data & making your own conclusions based on how people have communicated wiht data in the past.
+- In particular with what may be hidden via data?
+
+Using data to understand how your individual story may/will differ from what is being conceptualized about you, without your consent.
+
+For instance, your thyroid tries to keep an optimal temperature for your body.
+- If you collect your temperature data then you can find some indications on the condition of your thyroid.
+  - In the clinical setting, you may have a blood test that measures the thyroid-stimulating hormones in your blood.
+    - The problem is that it's not an indication of how active your thyroid is.
+  - Your temperatue data tells a different story than what the blood test does.
+  
+By taking ownership of your data, you become the expert on what you're collecting/analyzing. You become the authority. 
+- Other experts are authority figures on the general population, but you can be an expert in what data you collect... say, about your body temperature/blood pressure/weight, etc.
+  - When two experts come togetehr, a better decision can be made... than just your doctor alone.
+  
+Oath: I challenge you to take ownership of your data, and today I hereby confer upon you a Tedx associates degree in elementary statistics with a concetrationin time-dependent data analysis, with all the right and privileges that pertain within there to (your name).
+
+Your response when presented with a situation: Show me the Data.
