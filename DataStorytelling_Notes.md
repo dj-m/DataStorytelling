@@ -336,3 +336,6 @@ Your response when presented with a situation: Show me the Data!
 
 ## Storytelling & Effective Communication ##
 
+Harvard CS 109 Lecture #6
+- [slides](https://github.com/cs109/2015/blob/master/Lectures/06-StoryTelling.pdf)
+- [video]()
