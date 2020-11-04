@@ -25,8 +25,10 @@ Harvard CS 109 Lecture #3
 
 Data exploration is difficult because we're not always sure what we're looking for...
 
-| ![x](images/CS109_Lecture3_EDA/Slide_05.jpg) |
+| ![What to look for?](images/CS109_Lecture3_EDA/Slide_05.jpg) |
 | :-: |
+| Typical process: |
+| ![Process](images/CS109_Lecture3_EDA/Slide_04.jpg) |
 | You ought to always be guided by initial hypotheses. Having a good question is important because of its purpose as a guide. |
 
 To overcome this it's best to use visualizations and questions that will guide your exploration. Ultimately, you're looking at what it is that this data can tell you.
@@ -136,7 +138,7 @@ Edward Tufte introduced the **Data-Ink Ratio** to help guide data visualizations
 | ![Data-Ink Ratio](images/CS109_Lecture3_EDA/Slide_32.jpg) |
 | :-: |
 | Maximize the ink showing your data while minimizing everything else, like so (getting rid of the 3D shadows): |
-| ![Maximized data-ink ratio](images/CS109_Lecture3_EDA/Slide_23.jpg) |
+| ![Maximized data-ink ratio](images/CS109_Lecture3_EDA/Slide_33.jpg) |
 
 3D data tends to be _bad_ because:
 - It wastes ink/pixels on the 3D facets, like shadows
@@ -330,4 +332,7 @@ By taking ownership of your data, you become the expert on what you're collectin
   
 Oath: I challenge you to take ownership of your data, and today I hereby confer upon you a Tedx associates degree in elementary statistics with a concetrationin time-dependent data analysis, with all the right and privileges that pertain within there to (your name).
 
-Your response when presented with a situation: Show me the Data.
+Your response when presented with a situation: Show me the Data!
+
+## Storytelling & Effective Communication ##
+
