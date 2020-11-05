@@ -393,3 +393,76 @@ Harvard CS 109 Lecture #6
 | ![abstract](images/CS109_Lecture6_Storytelling/Slide_15.jpg) |
 | From PHD Comics: | 
 | ![phdcomics](images/CS109_Lecture6_Storytelling/Slide_16.jpg) |
+
+- Tell a Story: Any story has a beginning, middle and an end.
+  - Introduce interesting characters
+  - Put them in a predicament
+  - Resolve the predicament
+  - But leave room for sequels! (Limitations and future work)
+
+**The best work in Data Science is usually going to raise more quesitons than it answers.**
+
+#### Tell a Sotyr with Data ####
+
+Stories are the most powerful delivery tool for information, more powerful and enduring than any other art form.
+
+- Whenever you can, tell a story with your data.
+- Try to phrase whatever you're doing in the form of a story.
+  
+Example of Telling a Story with Data: 
+
+- [How Mariano Rivera Dominates Hitters](https://www.nytimes.com/video/sports/1247468158551/how-mariano-rivera-dominates-hitters.html) (Video, NY Times)
+  - The video strikes (no pun intended) a balance between being informative and fun.
+  
+Key Considerations:
+
+- Who is your **audience**?
+  - Making material understandable by everyone allows many more to be interested in what you're talking about.
+- What **questions** are you answering?
+- Why should the audience **care**?
+- What are your major **insights** and surprises?
+- What **change** do you want to affect?
+
+Know Your Audience:
+
+- What do they know?
+- What motivates them? What do they desire?
+- WHat experiences do you share? What are the common goals?
+- What insights can you give them? What tools and 'magical gifts'?
+
+| Make your topic/material accessible to a wider audience: |
+| :-: |
+| ![audience think](images/CS109_Lecture6_Storytelling/Slide_24.jpg) |
+| This visualization forces the audience to spend time trying to figure it out and distracts from the goal of the data: |
+| ![lede](images/CS109_Lecture6_Storytelling/Slide_25.jpg) |
+| Instead, do this: |
+| ![lede but better](images/CS109_Lecture6_Storytelling/Slide_26.jpg) |
+
+- You'll want to surprise the audience
+
+| ![surprise](images/CS109_Lecture6_Storytelling/Slide_31.jpg) |
+| :-: |
+
+- Example of surprising the audience:
+  - London Olympics 2012 [Usain Bolt's Gold in the 100 Meter Sprint](http://archive.nytimes.com/www.nytimes.com/interactive/2012/08/05/sports/olympics/the-100-meter-dash-one-race-every-medalist-ever.html) (NY Times)
+    - After the video, you can then dig into the data as well.
+
+- Messaging
+  - It's very hard to be completely neutral...
+
+| Here's you're putting a story within a certain context |
+| :-: |
+| ![Framing](images/CS109_Lecture6_Storytelling/Slide_34.jpg) |
+| Here's a traditional dashboard for financial data. The framing? A professional audience, interested in finance, presented in a neutral fashion. |
+| ![finance dashboard](images/CS109_Lecture6_Storytelling/Slide_35.jpg) |
+| By contrast, this looks like blood dripping and frames their point of view. This is a much more engaging graph than the previous one. |
+| ![surprise](images/CS109_Lecture6_Storytelling/Slide_36.jpg) |
+| Keep your audience in mind: |
+| ![message](images/CS109_Lecture6_Storytelling/Slide_37.jpg) |
+
+- Example of framing:
+  - Wealth Inequality in America [Politizane](https://www.youtube.com/watch?v=QPKKQnijnsM) (YouTube)
+    - Know your audience, which in this case was the internet.
+
+
+
