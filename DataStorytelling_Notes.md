@@ -338,4 +338,41 @@ Your response when presented with a situation: Show me the Data!
 
 Harvard CS 109 Lecture #6
 - [slides](https://github.com/cs109/2015/blob/master/Lectures/06-StoryTelling.pdf)
-- [video]()
+- [video](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=7f968df9-404a-46a2-ae5f-e35479875f95)
+
+#### How do you Communicate? ####
+
+- Two Fundamental Questions: (your audience should always know this about your data/purpose)
+  - What is the goal?
+  
+![goal](images/CS109_Lecture6_Dtastorytelling/Slide_03.jpg)
+
+  - Who cares?
+    - Keep your audience in mind in order to answer this question.
+
+- One way to organize statistics or data science: IMAC
+
+![IMAC](images/CS109_Lecture6_Dtastorytelling/Slide_05.jpg)
+
+- Key Principles:
+  - The Golden Rule: Do onto others as you would have done unto yourself.
+  - Know your audience
+  - Tell a story
+  - Choose and use notation carefully
+    - Speakers forget that they may have been living with data for years, but as an audience everything may be completely new to you.
+  - Read great writers
+    - Not only will you learn about the content but also how to parse informatino out well
+  - Create a clear sense of direction (the the help of signposts), with clear flow of logic
+    - A reader may have certain expectations of where you're going, thematically, and you're trying to staisfy those expectations, unless there's a good reason to surprise the reader by going in a different direction
+	- Remind the reader, 'here's where we were, here's where we are and here's where we're going'
+
+| Examples of bad notation: |
+| :-: |
+| ![bad notation](images/CS109_Lecture6_Dtastorytelling/Slide_07.jpg) |
+| Keep things consistent for the reader/audience. Epsilon that goes to 0 as epsilon goes to infinity vioaltes the convention in math where epsilon is usually a very small positive number, and 'n' as an integer. |
+
+- Four useful references on scientific notation
+  - Marie Davidian _Written Communication: Conveying Scientific Informaiton Effectively_ [handout](https://www4.stat.ncsu.edu/~davidian/st810a/written_handout.pdf) (PDF)
+  - Rod Little _Style Tips_ [article](https://docs.google.com/a/umich.edu/viewer?a=v&pid=sites&srcid=dW1pY2guZWR1fHJvZC1saXR0bGV8Z3g6MmQzZjVhM2VjOWVlN2Q0Mw) (Google Drive/PDF)
+  - Paul Halmos _How to Write Mathematics_ [article](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf) (PDF)
+  - George Gopen & Judith Swan [blog]() [article]()
