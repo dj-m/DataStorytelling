@@ -372,12 +372,24 @@ Harvard CS 109 Lecture #6
 | Keep things consistent for the reader/audience. Epsilon that goes to 0 as epsilon goes to infinity vioaltes the convention in math where epsilon is usually a very small positive number, and 'n' as an integer. |
 
 - Four useful references on scientific notation
-  - **Marie Davidian** _Written Communication: Conveying Scientific Informaiton Effectively_ 
+  - **Marie Davidian**: _Written Communication: Conveying Scientific Informaiton Effectively_ 
     - [handout](articles/Davidian_WrittenCommunication.pdf) (PDF)
-  - Rod Little _Some Style and Grammar Tips for Biostatistics and Statistics Students_ 
+  - **Rod Little**: _Some Style and Grammar Tips for Biostatistics and Statistics Students_ 
     - [article](articles/Little_StyleTips.pdf) (PDF)
-  - Paul Halmos _How to Write Mathematics_ 
-    - [article](Halmos_WriteMathematics.pdf) (PDF)
-  - George Gopen & Judith Swan _The Science of Scientific Writing_ 
+  - **Paul Halmos**: _How to Write Mathematics_ 
+    - [article](articles/Halmos_WriteMathematics.pdf) (PDF)
+  - **George Gopen** & **Judith Swan**: _The Science of Scientific Writing_ 
     - [blog](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing) 
 	- [article](articles/Gopen_Swan_ScientificWriting.pdf)
+
+| Examples of bad scientific writing from Gopen & Swan article: |
+| :-: |
+| ![bad writing](images/CS109_Lecture6_Storytelling/Slide_09.jpg) |
+| Too much jargon but the real problem is the length of the technical terms & structure. |
+| ![sans jargon](images/CS109_Lecture6_Storytelling/Slide_10.jpg) |
+| For instance, look at how far apart the subject and verb are: |
+| ![subject verb distance](images/CS109_Lecture6_Storytelling/Slide_13.jpg) |
+| This abstract is too vague: |
+| ![abstract](images/CS109_Lecture6_Storytelling/Slide_15.jpg) |
+| From PHD Comics: | 
+| ![phdcomics](images/CS109_Lecture6_Storytelling/Slide_16.jpg) |
