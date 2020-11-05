@@ -345,14 +345,14 @@ Harvard CS 109 Lecture #6
 - Two Fundamental Questions: (your audience should always know this about your data/purpose)
   - What is the goal?
   
-![goal](images/CS109_Lecture6_Dtastorytelling/Slide_03.jpg)
+![goal](images/CS109_Lecture6_Storytelling/Slide_03.jpg)
 
   - Who cares?
     - Keep your audience in mind in order to answer this question.
 
 - One way to organize statistics or data science: IMAC
 
-![IMAC](images/CS109_Lecture6_Dtastorytelling/Slide_05.jpg)
+![IMAC](images/CS109_Lecture6_Storytelling/Slide_05.jpg)
 
 - Key Principles:
   - The Golden Rule: Do onto others as you would have done unto yourself.
@@ -368,11 +368,16 @@ Harvard CS 109 Lecture #6
 
 | Examples of bad notation: |
 | :-: |
-| ![bad notation](images/CS109_Lecture6_Dtastorytelling/Slide_07.jpg) |
+| ![bad notation](images/CS109_Lecture6_Storytelling/Slide_07.jpg) |
 | Keep things consistent for the reader/audience. Epsilon that goes to 0 as epsilon goes to infinity vioaltes the convention in math where epsilon is usually a very small positive number, and 'n' as an integer. |
 
 - Four useful references on scientific notation
-  - Marie Davidian _Written Communication: Conveying Scientific Informaiton Effectively_ [handout](https://www4.stat.ncsu.edu/~davidian/st810a/written_handout.pdf) (PDF)
-  - Rod Little _Style Tips_ [article](https://docs.google.com/a/umich.edu/viewer?a=v&pid=sites&srcid=dW1pY2guZWR1fHJvZC1saXR0bGV8Z3g6MmQzZjVhM2VjOWVlN2Q0Mw) (Google Drive/PDF)
-  - Paul Halmos _How to Write Mathematics_ [article](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf) (PDF)
-  - George Gopen & Judith Swan [blog]() [article]()
+  - **Marie Davidian** _Written Communication: Conveying Scientific Informaiton Effectively_ 
+    - [handout](articles/Davidian_WrittenCommunication.pdf) (PDF)
+  - Rod Little _Some Style and Grammar Tips for Biostatistics and Statistics Students_ 
+    - [article](articles/Little_StyleTips.pdf) (PDF)
+  - Paul Halmos _How to Write Mathematics_ 
+    - [article](Halmos_WriteMathematics.pdf) (PDF)
+  - George Gopen & Judith Swan _The Science of Scientific Writing_ 
+    - [blog](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing) 
+	- [article](articles/Gopen_Swan_ScientificWriting.pdf)
