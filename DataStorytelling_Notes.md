@@ -402,7 +402,7 @@ Harvard CS 109 Lecture #6
 
 **The best work in Data Science is usually going to raise more quesitons than it answers.**
 
-#### Tell a Sotyr with Data ####
+#### Tell a Story with Data ####
 
 Stories are the most powerful delivery tool for information, more powerful and enduring than any other art form.
 
@@ -450,7 +450,7 @@ Know Your Audience:
 - Messaging
   - It's very hard to be completely neutral...
 
-| Here's you're putting a story within a certain context |
+| Here's you're couching a story within a certain context |
 | :-: |
 | ![Framing](images/CS109_Lecture6_Storytelling/Slide_34.jpg) |
 | Here's a traditional dashboard for financial data. The framing? A professional audience, interested in finance, presented in a neutral fashion. |
@@ -476,7 +476,7 @@ Know Your Audience:
 | Important features: Make the headline the answer to the most important question that you found. |
 | ![755 features](images/CS109_Lecture6_Storytelling/Slide_46.jpg) |
 
-Visual storytelling ebing done well:
+Visual storytelling being done well:
 
 | ![storytelling](images/CS109_Lecture6_Storytelling/Slide_47.jpg) |
 | :-: |
