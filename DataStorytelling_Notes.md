@@ -464,5 +464,34 @@ Know Your Audience:
   - Wealth Inequality in America [Politizane](https://www.youtube.com/watch?v=QPKKQnijnsM) (YouTube)
     - Know your audience, which in this case was the internet.
 
+- Visual Story Design
+  - Minor changes can have dramatic impacts on how your data tells its story
+  
+| Every story has a beginning, middle and and end |
+| :-: |
+| ![755](images/CS109_Lecture6_Storytelling/Slide_42.jpg) |
+| ![755 begin](images/CS109_Lecture6_Storytelling/Slide_43.jpg) |
+| ![755 middle](images/CS109_Lecture6_Storytelling/Slide_44.jpg) |
+| ![755 end](images/CS109_Lecture6_Storytelling/Slide_45.jpg) |
+| Important features: Make the headline the answer to the most important question that you found. |
+| ![755 features](images/CS109_Lecture6_Storytelling/Slide_46.jpg) |
 
+Visual storytelling ebing done well:
 
+| ![storytelling](images/CS109_Lecture6_Storytelling/Slide_47.jpg) |
+| :-: |
+| Or tell a story in stages: |
+| ![cancer](images/CS109_Lecture6_Storytelling/Slide_48.jpg) |
+
+#### Recap & Beyond ####
+
+- Successful Data Stories...
+  - ...target the audience
+  - ...engage and are memorable
+  - ...answer concise questions
+  - ...are carefully designed
+  - ...move us to want to change the world
+  
+| ![further reading](images/CS109_Lecture6_Storytelling/Slide_50.jpg) |
+| :-: |
+| ![more further reading](images/CS109_Lecture6_Storytelling/Slide_51.jpg) |
